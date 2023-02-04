@@ -1,0 +1,12 @@
+{
+    "use_notif_reader": false,
+    "time_to_rem_whisper": 36000,
+    "time_to_hide": 4,
+    "check_period": 100,
+    "log_file": "C:/Program Files (x86)/Grinding Gear Games/Path of Exile/logs/Client.txt",
+    "w": 460,
+    "h": 60,
+    "mibs": 4,
+    "wposx": 695,
+    "wposy": 458
+}

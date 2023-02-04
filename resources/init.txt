@@ -1,0 +1,1 @@
+{"USE_NOTIF_READER": true, "time_to_rem_whisper": 36000, "time_to_hide": 4, "check_period": 10, "log_file": "C:/binary_build/team3/resources/dummy.txt"}

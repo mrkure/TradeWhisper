@@ -1,0 +1,1 @@
+To remove Error while loading pywin (win32gui etc.) by Pyinstaller: uninstall pywin32 by conda and install pywin by pip 

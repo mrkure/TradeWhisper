@@ -1,0 +1,12 @@
+{
+    "use_notif_reader": true,
+    "time_to_rem_whisper": 36000,
+    "time_to_hide": 4,
+    "check_period": 10,
+    "log_file": "C:/binary_build/team3/resources/dummy.txt",
+    "w": 550,
+    "h": 60,
+    "mibs": 5,
+    "wposx": 600,
+    "wposy": 100
+}
